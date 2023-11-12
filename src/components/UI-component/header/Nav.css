@@ -1,0 +1,49 @@
+
+.css-11b3ww9-MuiPaper-root-MuiAppBar-root {
+    background-color: transparent !important;
+    opacity: 0.5 1;
+    box-shadow: none !important;
+}
+
+/* .css-hyum1k-MuiToolbar-root {
+
+    margin-right: 150px !important;
+}
+.css-p7bec2-MuiTypography-root {
+   
+    margin-left: 150px !important;
+  
+} */
+
+.BUY {
+    background-color: #ffffff !important;
+    color: #e7272d !important;
+    font-size: 1rem !important;
+    line-height: 1.8 !important;
+    border-radius: 100px !important;
+    font-weight: bold !important;
+    width: 130px;
+    height: 50px;
+    letter-spacing: 1px !important;
+    margin: 0.4rem 0.8rem !important;
+    white-space: normal !important;
+
+}
+
+/* .css-11b3ww9-MuiPaper-root-MuiAppBar-root{
+    position: sticky !important;
+    top: 0px !important;
+} */
+
+@media screen and (max-width: 880px) {
+    .css-hyum1k-MuiToolbar-root {
+
+        margin-right: 10px !important;
+    }
+
+    .css-p7bec2-MuiTypography-root {
+
+        margin-left: 10px !important;
+
+    }
+}

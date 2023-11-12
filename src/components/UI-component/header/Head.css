@@ -1,0 +1,75 @@
+.maincontainer {
+
+    background-color: #28a745 !important;
+   
+}
+
+.thaifood {
+    margin-top: 100px;
+}
+
+.head_text {
+    color: #ffffff !important;
+    font-family: 'Barlow', sans-serif !important;
+    font-size: 3.8rem !important;
+    line-height: 1.1 !important;
+    font-weight: 900 !important;
+    text-align: center;
+    margin-top: 150px !important;
+}
+
+.head_para {
+    text-align: center;
+    padding: 20px 180px 0px 180px;
+    color: white !important;
+    font-family: 'Roboto', sans-serif !important;
+    font-size: 1rem !important;
+    line-height: 1.8 !important;
+}
+
+@media screen and (max-width: 986px) {
+    .head_para {
+        text-align: center;
+        padding: 20px 20px 0px 20px;
+        color: white;
+    }
+}
+
+.mybtn {
+    text-align: center;
+    width: 200px !important;
+    height: 61px !important;
+    background: white !important;
+    color: black !important;
+    border-radius: 50px !important;
+    font-weight: bold !important;
+}
+
+.btnbox {
+    text-align: center;
+    margin-top: 50px;
+
+}
+.img{
+    margin-top: 40px;
+    text-align: center;
+    
+}
+.img img{
+    max-height: 700px !important;
+    /* min-height: 200px !important; */
+    margin-bottom: 30px !important;
+}
+@media screen and (max-width: 786px) {
+    .img img{
+        max-height: 400px !important;
+       
+        /* min-height: 200px !important; */
+    }
+}
+@media screen and (max-width: 452px) {
+    .img img{
+        max-height: 250px !important;
+        /* min-height: 200px !important; */
+    }
+}

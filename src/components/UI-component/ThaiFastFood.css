@@ -1,0 +1,87 @@
+.newcomer {
+    margin-top: 50px;
+    margin-bottom: 80px;
+}
+
+.newcomer_p {
+
+    color: #89b758 !important;
+    font-family: 'Permanent Marker', cursive !important;
+    font-size: 1.8rem !important;
+    line-height: 1.4 !important;
+    font-weight: 900 !important;
+
+}
+
+.thaifast {
+    color: #29361a;
+    font-size: 3.04rem !important;
+    /* font-family: 'Barlow', sans-serif !important; */
+    font-weight: 900 !important;
+    font-family: 'Barlow', sans-serif !important;
+    font-size: 3.8rem !important;
+    line-height: 1.1 !important;
+
+}
+
+.thaicombo {
+    font-family: 'Barlow', sans-serif !important;
+    font-size: 1.6rem !important;
+    font-weight: 700 !important;
+}
+
+.thaibodytext {
+    margin-top: 15px !important;
+    color: #808080 !important;
+    transition: all 0.3s !important;
+    font-family: 'Roboto', sans-serif !important;
+    font-size: 1rem !important;
+    line-height: 1.8 !important;
+    font-style: normal !important;
+    font-weight: 500 !important;
+    margin-bottom: 10px !important;
+}
+
+.doller1 {
+    color: #0e0e0e !important;
+    transition: all 0.3s !important;
+    font-family: 'Barlow', sans-serif !important;
+    font-size: 1.6rem !important;
+    font-weight: 700 !important;
+    padding-bottom: 1.5rem !important;
+    margin-top: 10px !important;
+
+}
+
+.card_icon {
+    width: 60px !important;
+    height: 60px !important;
+    background: #89b758 !important;
+    font-size: 1.2rem !important;
+    margin: auto !important;
+    border-radius: 50% !important;
+    justify-content: center !important;
+    align-items: center !important;
+    display: flex !important;
+    color: #ffffff !important;
+    box-sizing: border-box !important;
+    font-family: 'Moririse2' !important;
+    /* speak: none; */
+    font-style: normal !important;
+    font-weight: normal !important;
+    font-variant: normal !important;
+    text-transform: none !important;
+    line-height: 1 !important;
+    -webkit-font-smoothing: antialiased !important;
+    margin-top: 20px !important;
+}
+
+.thaicombobox {
+    width: 80%;
+    position: absolute;
+    top: 230px;
+    background: white;
+    border-radius: 10px !important;
+
+
+}

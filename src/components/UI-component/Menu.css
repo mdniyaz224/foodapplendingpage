@@ -1,0 +1,69 @@
+.welcom{
+    color: #89b758 !important;
+    font-family: 'Permanent Marker', cursive !important;
+    font-size: 1.6rem !important;
+    line-height: 1.4 !important;
+    font-weight: 500 !important;
+    text-align: center;
+}
+.ourmenu{
+    font-family: 'Barlow', sans-serif !important;
+    font-size: 3.8rem  !important;
+    line-height: 1.1 !important;
+    font-weight: 900 !important;
+    text-align: center;
+    color: #000000 !important;
+
+}
+.maindiv{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+}
+.boximg img{
+    border-radius: 6px;
+    object-fit: cover;
+    margin-right: 2rem;
+    width: 110px;
+    height: 110px;
+    margin-top: -50px;
+}
+.sushi{
+    background: #89b758;
+    width: fit-content;
+    padding: 3px 16px 0px 16px;
+    border-radius: 10px;
+    margin-bottom: 12px;
+}
+.rolldoller{
+    color: #89b758;
+}
+.salmon{
+    padding: 0 !important;
+    margin: 0 !important;
+    width: fit-content !important;
+    color: #000000 !important;
+    font-family: 'Barlow', sans-serif !important;
+    font-size: 1.6rem !important;
+    font-weight: 700 !important;
+    margin-top: 10px !important;
+}
+.bodytext1{
+    font-family: 'Roboto', sans-serif !important;
+    font-size: 1rem !important;
+    line-height: 1.8 !important; 
+    color: #808080 !important;
+}
+@media screen and (max-width: 580px) {
+    .maindiv{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-direction: column;
+    }
+    .boximg img{
+       
+        margin-top: 0px;
+    }
+  }

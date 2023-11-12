@@ -1,0 +1,31 @@
+.cimage{
+    width: 100px !important;
+    height: 100px !important;
+    border-radius: 100%;;
+}
+.carousel .thumb {
+display: none !important;
+
+}
+.rewardmaindiv{
+    padding-top: 50px;
+    padding-bottom: 120px;
+    background-color: #f3f7ee;
+    margin-top: 100px !important;
+}
+.crousaltext{
+    font-family: 'Barlow', sans-serif !important;
+    font-size: 1.6rem !important;
+    font-weight: 700 !important;
+    text-align: center !important;
+    word-wrap: break-word !important;
+    padding-left: 120px !important;
+    padding-right: 120px !important;
+}
+@media screen and (max-width: 480px) {
+    .crousaltext{
+        
+        padding-left: 0px !important;
+        padding-right: 0px !important;
+    }
+  }
